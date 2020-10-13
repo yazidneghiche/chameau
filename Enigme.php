@@ -36,6 +36,7 @@ class Enigme
         $this->transport = $transport;
     }
 
+    
 
     /**
      *
